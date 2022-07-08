@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/pageCampaign"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_campaign_24"
+        android:title="Campaign"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/pageGroup"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:title="Group"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/pageHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/pageContacts"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="Contacts"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/pageSettings"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"
+        tools:ignore="HardcodedText" />
+</menu>

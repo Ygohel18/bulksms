@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bulk SMS</string>
+    <string name="login_title">Login to BulkSMS</string>
+    <string name="login_button">Login</string>
+    <string name="app_version">1.0.0</string>
+    <string name="newaccount_btn">Create new account</string>
+    <string name="register_title">Register to Bulk SMS</string>
+    <string name="register_button">Register Now</string>
+    <string name="login_btn">Already have and account</string>
+    <string name="sms_credits">SMS Credits</string>
+    <string name="campaign">Campaign</string>
+    <string name="contacts">Contacts</string>
+    <string name="group">Group</string>
+    <string name="settings">Settings</string>
+</resources>
